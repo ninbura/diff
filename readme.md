@@ -1,2 +1,2 @@
 # diff
-literally just the vim diff.exe
+literally just the diff.exe packaged with vim
